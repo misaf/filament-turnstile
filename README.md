@@ -7,7 +7,7 @@ Cloudflare Turnstile panel plugin for **Filament v5**. Register it once on a pan
 | Dependency | Version |
 |---|---|
 | PHP | `^8.2` |
-| Laravel | `^11` / `^12` |
+| Laravel | `^11` / `^12` / `^13` |
 | Filament | `^5.0` |
 
 ## Installation
